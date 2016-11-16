@@ -1,0 +1,36 @@
+{
+  "Chicken Noodle": {
+    "Consistency": "Thin",
+    "Vegetables" : "Yes",
+    "SpiceLevel" : "None",
+    "Location"  : ["United States","Canada","England"]
+  },
+
+  "Thai Chili Corn Chowder": {
+    "Consistency": "Thick",
+    "Vegetables" : "Yes",
+    "SpiceLevel" : "Moderate",
+    "Location"  : ["United States","Thailand","Vietnam"]
+  },
+
+  "Clam Chowder": {
+    "Consistency": "Thick",
+    "Vegetables" : "No",
+    "SpiceLevel" : "None",
+    "Location"  : ["Unites States","Germany","England"]
+  },
+
+  "French Onion": {
+    "Consistency": "Thick",
+    "Vegetables" : "Yes",
+    "SpiceLevel" : "None",
+    "Location"  : ["United States","France","England"]
+  },
+
+  "Goulash": {
+    "Consistency": "Thin",
+    "Vegetables" : "Yes",
+    "SpiceLevel" : "Fire",
+    "Location"  : ["Hungary","United States","England"]
+  }
+}
